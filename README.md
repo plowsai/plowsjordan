@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-      Light AI an AI First Company in San Fransisco
+      Light AI an AI First Company in San Fransisco (https://lightaibeta.com)
       
  📫 How to reach me: ...
    if you want to learn more about Light AI email me jordan@lightaibeta.com
