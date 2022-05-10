@@ -3,7 +3,9 @@
 🔭 I’m currently working on ...
       Light AI an AI First Company in San Fransisco (https://lightaibeta.com)
       
- 📫 How to reach me: ...
+💬 Ask me about Light AI or email me if you want to talk about how all things AI
+      
+📫 How to reach me: ...
    if you want to learn more about Light AI email me jordan@lightaibeta.com
 <!--
 **plowsjordan/plowsjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
