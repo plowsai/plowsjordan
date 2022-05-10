@@ -6,6 +6,8 @@
 💬 Ask me about Light AI or email me, if you want to talk about using AI to create applications using plain-English
 
 📚 I am currently reading "The Art of Science and Engineering by Richard W Hamming" 
+
+💻 My preferred Programming language is Python
       
 📫 How to reach me: ...
    if you want to learn more about Light AI email me jordan@lightaibeta.com
