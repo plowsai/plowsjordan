@@ -3,7 +3,7 @@
 🔭 I’m currently working on ...
       Light AI an AI First Company in San Fransisco (https://lightaibeta.com)
       
-💬 Ask me about Light AI or email me if you want to talk about how all things AI
+💬 Ask me about Light AI or email me, if you want to talk about using AI to create applications using plain-English
       
 📫 How to reach me: ...
    if you want to learn more about Light AI email me jordan@lightaibeta.com
