@@ -1,9 +1,9 @@
-### Bio 💼
+## Bio 💼
 
 🔭 I’m currently working on ...
       Light AI an AI First Company in San Fransisco (https://lightaibeta.com)
 
-📣 Extra Info
+## Extra Info 📣
      
 
 📚 I am currently reading "The Art of Science and Engineering by Richard W Hamming" 
