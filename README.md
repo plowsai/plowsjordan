@@ -2,12 +2,11 @@
 
 🔭 I’m currently working on ...
       Light AI an AI First Company in San Fransisco (https://lightaibeta.com)
-      
-💬 Ask me about Light AI or email me, if you want to talk about using AI to create applications using plain-English
+
+📣 Extra Info
+     
 
 📚 I am currently reading "The Art of Science and Engineering by Richard W Hamming" 
-
-💻 My preferred Programming language is Python
       
 📫 How to reach me: ...
   email me jordan@lightaibeta.com
