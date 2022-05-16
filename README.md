@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bio 💼
 
 🔭 I’m currently working on ...
       Light AI an AI First Company in San Fransisco (https://lightaibeta.com)
@@ -10,7 +10,7 @@
 💻 My preferred Programming language is Python
       
 📫 How to reach me: ...
-   if you want to learn more about Light AI email me jordan@lightaibeta.com
+  email me jordan@lightaibeta.com
 <!--
 **plowsjordan/plowsjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
