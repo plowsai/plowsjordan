@@ -1,7 +1,7 @@
 ## Bio 💼
 
 🔭 I’m currently working on ...
-      Light AI an AI First Company in San Fransisco (https://lightaibeta.com)
+      Light AI an AI First Company in San Fransisco (https://lightai.dev)
 
 ## Extra Info 📣
      
