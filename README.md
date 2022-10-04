@@ -6,7 +6,9 @@
 ## Extra Info 📣
      
 
-📚 I am currently reading "The Art of Science and Engineering by Richard W Hamming" 
+📚 I am currently reading "The Beginning of Infinity" 
+
+🤔 I’m looking for help with deploying complex ML models in production & deploying API's at scale 
       
 📫 How to reach me: ...
   email me jordan@lightaibeta.com
