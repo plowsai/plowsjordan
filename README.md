@@ -11,7 +11,7 @@
 🤔 I’m looking for help with deploying complex ML models in production & deploying API's at scale 
       
 📫 How to reach me: ...
-  email me jordan@lightaibeta.com
+  email me jordan@lightapi.com
 <!--
 **plowsjordan/plowsjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
